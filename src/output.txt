@@ -1,0 +1,360 @@
+From floor 1 to floor 2
+	 People: Average = 58 Standard Deviation = 1.16
+	 Wait time: Average = 106.69 Standard Deviation = 99.81
+	 Travel time: Average = 5.33 Standard Deviation = 0.60
+From floor 1 to floor 3
+	 People: Average = 50 Standard Deviation = 1.00
+	 Wait time: Average = 116.38 Standard Deviation = 90.57
+	 Travel time: Average = 9.06 Standard Deviation = 0.79
+From floor 1 to floor 4
+	 People: Average = 57 Standard Deviation = 1.14
+	 Wait time: Average = 131.61 Standard Deviation = 101.92
+	 Travel time: Average = 12.82 Standard Deviation = 0.86
+From floor 1 to floor 5
+	 People: Average = 71 Standard Deviation = 1.42
+	 Wait time: Average = 125.42 Standard Deviation = 85.92
+	 Travel time: Average = 16.75 Standard Deviation = 0.99
+From floor 1 to floor 6
+	 People: Average = 50 Standard Deviation = 1.00
+	 Wait time: Average = 128.02 Standard Deviation = 98.49
+	 Travel time: Average = 21.02 Standard Deviation = 1.26
+From floor 1 to floor 7
+	 People: Average = 58 Standard Deviation = 1.16
+	 Wait time: Average = 114.10 Standard Deviation = 106.79
+	 Travel time: Average = 24.60 Standard Deviation = 1.39
+From floor 1 to floor 8
+	 People: Average = 48 Standard Deviation = 0.96
+	 Wait time: Average = 131.77 Standard Deviation = 105.69
+	 Travel time: Average = 27.92 Standard Deviation = 1.63
+From floor 1 to floor 9
+	 People: Average = 60 Standard Deviation = 1.20
+	 Wait time: Average = 133.87 Standard Deviation = 129.14
+	 Travel time: Average = 31.45 Standard Deviation = 2.05
+From floor 1 to floor 10
+	 People: Average = 50 Standard Deviation = 1.00
+	 Wait time: Average = 140.78 Standard Deviation = 120.97
+	 Travel time: Average = 3240.04 Standard Deviation = 442.24
+From floor 2 to floor 1
+	 People: Average = 56 Standard Deviation = 1.12
+	 Wait time: Average = 46.16 Standard Deviation = 26.54
+	 Travel time: Average = 2985.66 Standard Deviation = 934.47
+From floor 2 to floor 3
+	 People: Average = 57 Standard Deviation = 1.14
+	 Wait time: Average = 41.60 Standard Deviation = 29.67
+	 Travel time: Average = 73.42 Standard Deviation = 91.24
+From floor 2 to floor 4
+	 People: Average = 65 Standard Deviation = 1.30
+	 Wait time: Average = 41.37 Standard Deviation = 31.90
+	 Travel time: Average = 102.14 Standard Deviation = 125.44
+From floor 2 to floor 5
+	 People: Average = 58 Standard Deviation = 1.16
+	 Wait time: Average = 33.16 Standard Deviation = 28.58
+	 Travel time: Average = 106.74 Standard Deviation = 117.26
+From floor 2 to floor 6
+	 People: Average = 49 Standard Deviation = 0.98
+	 Wait time: Average = 45.51 Standard Deviation = 37.05
+	 Travel time: Average = 116.27 Standard Deviation = 121.43
+From floor 2 to floor 7
+	 People: Average = 54 Standard Deviation = 1.08
+	 Wait time: Average = 48.11 Standard Deviation = 36.99
+	 Travel time: Average = 117.83 Standard Deviation = 125.12
+From floor 2 to floor 8
+	 People: Average = 47 Standard Deviation = 0.94
+	 Wait time: Average = 41.19 Standard Deviation = 28.44
+	 Travel time: Average = 127.26 Standard Deviation = 119.93
+From floor 2 to floor 9
+	 People: Average = 57 Standard Deviation = 1.14
+	 Wait time: Average = 37.91 Standard Deviation = 29.38
+	 Travel time: Average = 132.39 Standard Deviation = 130.09
+From floor 2 to floor 10
+	 People: Average = 56 Standard Deviation = 1.12
+	 Wait time: Average = 42.64 Standard Deviation = 30.34
+	 Travel time: Average = 3113.75 Standard Deviation = 924.64
+From floor 3 to floor 1
+	 People: Average = 60 Standard Deviation = 1.20
+	 Wait time: Average = 27.90 Standard Deviation = 19.14
+	 Travel time: Average = 3132.57 Standard Deviation = 759.15
+From floor 3 to floor 2
+	 People: Average = 48 Standard Deviation = 0.96
+	 Wait time: Average = 31.54 Standard Deviation = 19.32
+	 Travel time: Average = 26.48 Standard Deviation = 23.70
+From floor 3 to floor 4
+	 People: Average = 75 Standard Deviation = 1.50
+	 Wait time: Average = 22.87 Standard Deviation = 14.09
+	 Travel time: Average = 123.45 Standard Deviation = 128.53
+From floor 3 to floor 5
+	 People: Average = 50 Standard Deviation = 1.00
+	 Wait time: Average = 28.26 Standard Deviation = 18.72
+	 Travel time: Average = 139.70 Standard Deviation = 129.54
+From floor 3 to floor 6
+	 People: Average = 44 Standard Deviation = 0.88
+	 Wait time: Average = 23.70 Standard Deviation = 18.18
+	 Travel time: Average = 163.50 Standard Deviation = 149.64
+From floor 3 to floor 7
+	 People: Average = 58 Standard Deviation = 1.16
+	 Wait time: Average = 23.90 Standard Deviation = 16.84
+	 Travel time: Average = 138.09 Standard Deviation = 118.24
+From floor 3 to floor 8
+	 People: Average = 56 Standard Deviation = 1.12
+	 Wait time: Average = 27.38 Standard Deviation = 18.24
+	 Travel time: Average = 175.89 Standard Deviation = 126.71
+From floor 3 to floor 9
+	 People: Average = 52 Standard Deviation = 1.04
+	 Wait time: Average = 20.37 Standard Deviation = 16.66
+	 Travel time: Average = 129.37 Standard Deviation = 110.24
+From floor 3 to floor 10
+	 People: Average = 62 Standard Deviation = 1.24
+	 Wait time: Average = 21.84 Standard Deviation = 17.47
+	 Travel time: Average = 3232.31 Standard Deviation = 583.98
+From floor 4 to floor 1
+	 People: Average = 55 Standard Deviation = 1.10
+	 Wait time: Average = 26.36 Standard Deviation = 18.05
+	 Travel time: Average = 3260.16 Standard Deviation = 481.77
+From floor 4 to floor 2
+	 People: Average = 54 Standard Deviation = 1.08
+	 Wait time: Average = 22.13 Standard Deviation = 15.92
+	 Travel time: Average = 36.35 Standard Deviation = 26.36
+From floor 4 to floor 3
+	 People: Average = 47 Standard Deviation = 0.94
+	 Wait time: Average = 26.45 Standard Deviation = 16.94
+	 Travel time: Average = 9.28 Standard Deviation = 7.73
+From floor 4 to floor 5
+	 People: Average = 46 Standard Deviation = 0.92
+	 Wait time: Average = 20.70 Standard Deviation = 15.29
+	 Travel time: Average = 114.67 Standard Deviation = 101.85
+From floor 4 to floor 6
+	 People: Average = 53 Standard Deviation = 1.06
+	 Wait time: Average = 21.04 Standard Deviation = 13.82
+	 Travel time: Average = 119.25 Standard Deviation = 97.05
+From floor 4 to floor 7
+	 People: Average = 58 Standard Deviation = 1.16
+	 Wait time: Average = 19.81 Standard Deviation = 17.19
+	 Travel time: Average = 106.48 Standard Deviation = 98.71
+From floor 4 to floor 8
+	 People: Average = 55 Standard Deviation = 1.10
+	 Wait time: Average = 26.15 Standard Deviation = 16.30
+	 Travel time: Average = 119.16 Standard Deviation = 80.22
+From floor 4 to floor 9
+	 People: Average = 60 Standard Deviation = 1.20
+	 Wait time: Average = 17.13 Standard Deviation = 13.57
+	 Travel time: Average = 128.80 Standard Deviation = 120.55
+From floor 4 to floor 10
+	 People: Average = 46 Standard Deviation = 0.92
+	 Wait time: Average = 23.33 Standard Deviation = 14.11
+	 Travel time: Average = 3103.28 Standard Deviation = 785.84
+From floor 5 to floor 1
+	 People: Average = 63 Standard Deviation = 1.26
+	 Wait time: Average = 21.78 Standard Deviation = 15.93
+	 Travel time: Average = 3215.22 Standard Deviation = 701.32
+From floor 5 to floor 2
+	 People: Average = 63 Standard Deviation = 1.26
+	 Wait time: Average = 27.06 Standard Deviation = 20.87
+	 Travel time: Average = 28.95 Standard Deviation = 24.26
+From floor 5 to floor 3
+	 People: Average = 54 Standard Deviation = 1.08
+	 Wait time: Average = 22.02 Standard Deviation = 14.23
+	 Travel time: Average = 13.74 Standard Deviation = 9.75
+From floor 5 to floor 4
+	 People: Average = 54 Standard Deviation = 1.08
+	 Wait time: Average = 22.80 Standard Deviation = 15.12
+	 Travel time: Average = 6.50 Standard Deviation = 3.05
+From floor 5 to floor 6
+	 People: Average = 55 Standard Deviation = 1.10
+	 Wait time: Average = 23.38 Standard Deviation = 15.55
+	 Travel time: Average = 121.11 Standard Deviation = 120.05
+From floor 5 to floor 7
+	 People: Average = 57 Standard Deviation = 1.14
+	 Wait time: Average = 24.49 Standard Deviation = 14.71
+	 Travel time: Average = 108.79 Standard Deviation = 114.21
+From floor 5 to floor 8
+	 People: Average = 58 Standard Deviation = 1.16
+	 Wait time: Average = 19.74 Standard Deviation = 13.03
+	 Travel time: Average = 125.36 Standard Deviation = 118.32
+From floor 5 to floor 9
+	 People: Average = 45 Standard Deviation = 0.90
+	 Wait time: Average = 16.64 Standard Deviation = 14.11
+	 Travel time: Average = 144.11 Standard Deviation = 122.74
+From floor 5 to floor 10
+	 People: Average = 59 Standard Deviation = 1.18
+	 Wait time: Average = 17.83 Standard Deviation = 13.23
+	 Travel time: Average = 3247.02 Standard Deviation = 533.77
+From floor 6 to floor 1
+	 People: Average = 49 Standard Deviation = 0.98
+	 Wait time: Average = 23.88 Standard Deviation = 18.61
+	 Travel time: Average = 3157.06 Standard Deviation = 770.59
+From floor 6 to floor 2
+	 People: Average = 51 Standard Deviation = 1.02
+	 Wait time: Average = 22.18 Standard Deviation = 17.06
+	 Travel time: Average = 40.43 Standard Deviation = 27.89
+From floor 6 to floor 3
+	 People: Average = 40 Standard Deviation = 0.80
+	 Wait time: Average = 27.25 Standard Deviation = 17.17
+	 Travel time: Average = 18.40 Standard Deviation = 12.06
+From floor 6 to floor 4
+	 People: Average = 67 Standard Deviation = 1.34
+	 Wait time: Average = 24.88 Standard Deviation = 18.60
+	 Travel time: Average = 10.04 Standard Deviation = 2.84
+From floor 6 to floor 5
+	 People: Average = 46 Standard Deviation = 0.92
+	 Wait time: Average = 21.74 Standard Deviation = 14.91
+	 Travel time: Average = 5.80 Standard Deviation = 0.90
+From floor 6 to floor 7
+	 People: Average = 66 Standard Deviation = 1.32
+	 Wait time: Average = 23.35 Standard Deviation = 15.30
+	 Travel time: Average = 135.02 Standard Deviation = 129.38
+From floor 6 to floor 8
+	 People: Average = 45 Standard Deviation = 0.90
+	 Wait time: Average = 16.09 Standard Deviation = 13.51
+	 Travel time: Average = 110.78 Standard Deviation = 102.37
+From floor 6 to floor 9
+	 People: Average = 66 Standard Deviation = 1.32
+	 Wait time: Average = 18.59 Standard Deviation = 15.31
+	 Travel time: Average = 128.82 Standard Deviation = 114.25
+From floor 6 to floor 10
+	 People: Average = 52 Standard Deviation = 1.04
+	 Wait time: Average = 22.56 Standard Deviation = 16.54
+	 Travel time: Average = 3222.10 Standard Deviation = 586.52
+From floor 7 to floor 1
+	 People: Average = 57 Standard Deviation = 1.14
+	 Wait time: Average = 21.00 Standard Deviation = 16.07
+	 Travel time: Average = 3343.25 Standard Deviation = 599.51
+From floor 7 to floor 2
+	 People: Average = 43 Standard Deviation = 0.86
+	 Wait time: Average = 20.81 Standard Deviation = 15.84
+	 Travel time: Average = 36.56 Standard Deviation = 21.35
+From floor 7 to floor 3
+	 People: Average = 69 Standard Deviation = 1.38
+	 Wait time: Average = 27.12 Standard Deviation = 21.17
+	 Travel time: Average = 21.10 Standard Deviation = 9.75
+From floor 7 to floor 4
+	 People: Average = 64 Standard Deviation = 1.28
+	 Wait time: Average = 23.47 Standard Deviation = 17.21
+	 Travel time: Average = 14.03 Standard Deviation = 3.61
+From floor 7 to floor 5
+	 People: Average = 40 Standard Deviation = 0.80
+	 Wait time: Average = 27.00 Standard Deviation = 18.43
+	 Travel time: Average = 9.73 Standard Deviation = 1.10
+From floor 7 to floor 6
+	 People: Average = 67 Standard Deviation = 1.34
+	 Wait time: Average = 22.78 Standard Deviation = 18.49
+	 Travel time: Average = 5.69 Standard Deviation = 0.80
+From floor 7 to floor 8
+	 People: Average = 52 Standard Deviation = 1.04
+	 Wait time: Average = 24.69 Standard Deviation = 17.58
+	 Travel time: Average = 101.77 Standard Deviation = 92.99
+From floor 7 to floor 9
+	 People: Average = 51 Standard Deviation = 1.02
+	 Wait time: Average = 21.69 Standard Deviation = 15.46
+	 Travel time: Average = 106.67 Standard Deviation = 95.24
+From floor 7 to floor 10
+	 People: Average = 58 Standard Deviation = 1.16
+	 Wait time: Average = 23.64 Standard Deviation = 17.74
+	 Travel time: Average = 3123.79 Standard Deviation = 815.82
+From floor 8 to floor 1
+	 People: Average = 64 Standard Deviation = 1.28
+	 Wait time: Average = 32.14 Standard Deviation = 23.67
+	 Travel time: Average = 3280.25 Standard Deviation = 545.04
+From floor 8 to floor 2
+	 People: Average = 48 Standard Deviation = 0.96
+	 Wait time: Average = 30.33 Standard Deviation = 22.56
+	 Travel time: Average = 55.77 Standard Deviation = 29.51
+From floor 8 to floor 3
+	 People: Average = 58 Standard Deviation = 1.16
+	 Wait time: Average = 27.62 Standard Deviation = 23.32
+	 Travel time: Average = 26.88 Standard Deviation = 10.04
+From floor 8 to floor 4
+	 People: Average = 56 Standard Deviation = 1.12
+	 Wait time: Average = 25.00 Standard Deviation = 17.91
+	 Travel time: Average = 17.29 Standard Deviation = 3.14
+From floor 8 to floor 5
+	 People: Average = 52 Standard Deviation = 1.04
+	 Wait time: Average = 30.87 Standard Deviation = 27.43
+	 Travel time: Average = 13.21 Standard Deviation = 1.26
+From floor 8 to floor 6
+	 People: Average = 57 Standard Deviation = 1.14
+	 Wait time: Average = 29.12 Standard Deviation = 19.36
+	 Travel time: Average = 9.14 Standard Deviation = 1.07
+From floor 8 to floor 7
+	 People: Average = 55 Standard Deviation = 1.10
+	 Wait time: Average = 32.76 Standard Deviation = 24.93
+	 Travel time: Average = 5.53 Standard Deviation = 0.73
+From floor 8 to floor 9
+	 People: Average = 58 Standard Deviation = 1.16
+	 Wait time: Average = 28.52 Standard Deviation = 20.99
+	 Travel time: Average = 146.52 Standard Deviation = 127.09
+From floor 8 to floor 10
+	 People: Average = 63 Standard Deviation = 1.26
+	 Wait time: Average = 26.41 Standard Deviation = 17.33
+	 Travel time: Average = 3217.76 Standard Deviation = 616.44
+From floor 9 to floor 1
+	 People: Average = 57 Standard Deviation = 1.14
+	 Wait time: Average = 64.16 Standard Deviation = 49.41
+	 Travel time: Average = 3148.77 Standard Deviation = 721.92
+From floor 9 to floor 2
+	 People: Average = 63 Standard Deviation = 1.26
+	 Wait time: Average = 62.65 Standard Deviation = 47.03
+	 Travel time: Average = 53.43 Standard Deviation = 27.46
+From floor 9 to floor 3
+	 People: Average = 50 Standard Deviation = 1.00
+	 Wait time: Average = 58.50 Standard Deviation = 47.37
+	 Travel time: Average = 30.00 Standard Deviation = 7.91
+From floor 9 to floor 4
+	 People: Average = 62 Standard Deviation = 1.24
+	 Wait time: Average = 65.92 Standard Deviation = 51.75
+	 Travel time: Average = 21.63 Standard Deviation = 1.15
+From floor 9 to floor 5
+	 People: Average = 54 Standard Deviation = 1.08
+	 Wait time: Average = 69.28 Standard Deviation = 49.54
+	 Travel time: Average = 17.69 Standard Deviation = 1.21
+From floor 9 to floor 6
+	 People: Average = 57 Standard Deviation = 1.14
+	 Wait time: Average = 56.19 Standard Deviation = 46.73
+	 Travel time: Average = 13.49 Standard Deviation = 1.08
+From floor 9 to floor 7
+	 People: Average = 55 Standard Deviation = 1.10
+	 Wait time: Average = 72.78 Standard Deviation = 43.97
+	 Travel time: Average = 9.80 Standard Deviation = 0.77
+From floor 9 to floor 8
+	 People: Average = 66 Standard Deviation = 1.32
+	 Wait time: Average = 58.62 Standard Deviation = 47.09
+	 Travel time: Average = 5.58 Standard Deviation = 0.49
+From floor 9 to floor 10
+	 People: Average = 55 Standard Deviation = 1.10
+	 Wait time: Average = 34.67 Standard Deviation = 23.30
+	 Travel time: Average = 2988.47 Standard Deviation = 976.86
+From floor 10 to floor 1
+	 People: Average = 54 Standard Deviation = 1.08
+	 Wait time: Average = 138.33 Standard Deviation = 98.00
+	 Travel time: Average = 3282.11 Standard Deviation = 505.32
+From floor 10 to floor 2
+	 People: Average = 55 Standard Deviation = 1.10
+	 Wait time: Average = 99.40 Standard Deviation = 85.39
+	 Travel time: Average = 63.49 Standard Deviation = 26.89
+From floor 10 to floor 3
+	 People: Average = 52 Standard Deviation = 1.04
+	 Wait time: Average = 139.92 Standard Deviation = 126.25
+	 Travel time: Average = 32.94 Standard Deviation = 8.49
+From floor 10 to floor 4
+	 People: Average = 60 Standard Deviation = 1.20
+	 Wait time: Average = 119.32 Standard Deviation = 114.22
+	 Travel time: Average = 25.45 Standard Deviation = 1.19
+From floor 10 to floor 5
+	 People: Average = 57 Standard Deviation = 1.14
+	 Wait time: Average = 123.21 Standard Deviation = 106.83
+	 Travel time: Average = 21.32 Standard Deviation = 1.06
+From floor 10 to floor 6
+	 People: Average = 62 Standard Deviation = 1.24
+	 Wait time: Average = 135.63 Standard Deviation = 121.39
+	 Travel time: Average = 17.24 Standard Deviation = 0.53
+From floor 10 to floor 7
+	 People: Average = 46 Standard Deviation = 0.92
+	 Wait time: Average = 115.20 Standard Deviation = 106.42
+	 Travel time: Average = 13.04 Standard Deviation = 0.98
+From floor 10 to floor 8
+	 People: Average = 65 Standard Deviation = 1.30
+	 Wait time: Average = 126.18 Standard Deviation = 116.21
+	 Travel time: Average = 8.95 Standard Deviation = 0.44
+From floor 10 to floor 9
+	 People: Average = 48 Standard Deviation = 0.96
+	 Wait time: Average = 141.02 Standard Deviation = 118.80
+	 Travel time: Average = 5.06 Standard Deviation = 0.32
